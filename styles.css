@@ -371,6 +371,16 @@ a {
   font-size: 0.95rem;
 }
 
+.class-photo {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 0 0.9rem 0;
+  border: 1px solid var(--line-soft);
+  border-radius: 8px;
+  background: #000;
+}
+
 /* =========================================
    Contact
 ========================================= */
